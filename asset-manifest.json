@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/final_project/static/css/main.afd19d63.css",
-    "main.js": "/final_project/static/js/main.aec601f2.js",
-    "static/js/787.9750ae9a.chunk.js": "/final_project/static/js/787.9750ae9a.chunk.js",
-    "static/media/react-bootstrap-carousel.eot": "/final_project/static/media/react-bootstrap-carousel.1a0fe919ea31a13740d3.eot",
-    "static/media/react-bootstrap-carousel.ttf": "/final_project/static/media/react-bootstrap-carousel.f41331129badd2b01fc7.ttf",
-    "static/media/react-bootstrap-carousel.woff": "/final_project/static/media/react-bootstrap-carousel.96e0693824065d5b7d56.woff",
-    "static/media/react-bootstrap-carousel.svg": "/final_project/static/media/react-bootstrap-carousel.190d0d1bf1c865be7a1b.svg",
-    "index.html": "/final_project/index.html",
-    "main.afd19d63.css.map": "/final_project/static/css/main.afd19d63.css.map",
-    "main.aec601f2.js.map": "/final_project/static/js/main.aec601f2.js.map",
-    "787.9750ae9a.chunk.js.map": "/final_project/static/js/787.9750ae9a.chunk.js.map"
+    "main.css": "/movie-knight/static/css/main.c112a7b6.css",
+    "main.js": "/movie-knight/static/js/main.50185e08.js",
+    "static/js/787.9750ae9a.chunk.js": "/movie-knight/static/js/787.9750ae9a.chunk.js",
+    "static/media/react-bootstrap-carousel.eot": "/movie-knight/static/media/react-bootstrap-carousel.1a0fe919ea31a13740d3.eot",
+    "static/media/react-bootstrap-carousel.ttf": "/movie-knight/static/media/react-bootstrap-carousel.f41331129badd2b01fc7.ttf",
+    "static/media/react-bootstrap-carousel.woff": "/movie-knight/static/media/react-bootstrap-carousel.96e0693824065d5b7d56.woff",
+    "static/media/react-bootstrap-carousel.svg": "/movie-knight/static/media/react-bootstrap-carousel.190d0d1bf1c865be7a1b.svg",
+    "index.html": "/movie-knight/index.html",
+    "main.c112a7b6.css.map": "/movie-knight/static/css/main.c112a7b6.css.map",
+    "main.50185e08.js.map": "/movie-knight/static/js/main.50185e08.js.map",
+    "787.9750ae9a.chunk.js.map": "/movie-knight/static/js/787.9750ae9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.afd19d63.css",
-    "static/js/main.aec601f2.js"
+    "static/css/main.c112a7b6.css",
+    "static/js/main.50185e08.js"
   ]
 }
