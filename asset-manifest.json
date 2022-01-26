@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/movie-knight/static/css/main.c112a7b6.css",
-    "main.js": "/movie-knight/static/js/main.50185e08.js",
+    "main.js": "/movie-knight/static/js/main.3921fb27.js",
     "static/js/787.9750ae9a.chunk.js": "/movie-knight/static/js/787.9750ae9a.chunk.js",
     "static/media/react-bootstrap-carousel.eot": "/movie-knight/static/media/react-bootstrap-carousel.1a0fe919ea31a13740d3.eot",
     "static/media/react-bootstrap-carousel.ttf": "/movie-knight/static/media/react-bootstrap-carousel.f41331129badd2b01fc7.ttf",
@@ -9,11 +9,11 @@
     "static/media/react-bootstrap-carousel.svg": "/movie-knight/static/media/react-bootstrap-carousel.190d0d1bf1c865be7a1b.svg",
     "index.html": "/movie-knight/index.html",
     "main.c112a7b6.css.map": "/movie-knight/static/css/main.c112a7b6.css.map",
-    "main.50185e08.js.map": "/movie-knight/static/js/main.50185e08.js.map",
+    "main.3921fb27.js.map": "/movie-knight/static/js/main.3921fb27.js.map",
     "787.9750ae9a.chunk.js.map": "/movie-knight/static/js/787.9750ae9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c112a7b6.css",
-    "static/js/main.50185e08.js"
+    "static/js/main.3921fb27.js"
   ]
 }
